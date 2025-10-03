@@ -1,4 +1,4 @@
-Descargo de responsabilidad
+"Descargo de responsabilidad
 
 Advertencia: Este documento describe técnicamente un fragmento de HTML con fines educativos y defensivos (análisis, detección y documentación). No debe usarse para engañar a personas reales ni desplegarse en entornos públicos. Trabaja siempre en un laboratorio aislado y con autorización escrita.
 
@@ -38,4 +38,4 @@ Firma final con <strong> y uso repetido del <span> azul para la palabra “Micro
 
 Enlace a la «Declaración de privacidad» que apunta a https://go.microsoft.com/fwlink/?LinkId=521839.
 
-Dirección postal en texto pequeño (12px) al final.
+Dirección postal en texto pequeño (12px) al final."
